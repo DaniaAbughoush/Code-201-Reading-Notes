@@ -15,7 +15,7 @@ and this is my GitHub page:
 | reading     | Description |
 | ----------- | ----------- |
 | README     | Homepage       |
-|    |         |
+|  [CLASS-01.md](https://github.com/DaniaAbughoush/Code-201-Reading-Notes/blob/main/class-01.md) |     html and javascript introduction    |
 |    |         |
 |    |         |
 |    |         |
