@@ -4,7 +4,7 @@
 )
 •	In this reading you will read general and usful information about html structure and elements then abrief information about javascript
 Pages include different elements such as content usually be in white background,digram in black and its written in different programming 
-languge and we open these pages in different ways such as webbrowser,web server,or devices. When we enter the name of the ip address or the page 
+languge and we open these pages in different ways such as webbrowser,web server,or devices. When we enter the name of the ip address or the page .
 we want we send it to to Dns which can be any place in the word then send it to web server then to web browser.html structure helds in the tags like
 html tag ,head body and there are opening tag which hold attribute inside it can tell us more about the element but name and value.and we can see how
 other built these web page via source.**html** had many version through time passing so the DOCTYPE use to tell us about the version of html we use.
@@ -22,7 +22,7 @@ bigger than the space that we allow.framboard the same not supported in html 5 a
  inline so we add CSS line and javascript.  design is something that i need to take in consedration . before designing a web page we should know the most important thing whish
  is *the ccoustmer* for who i design this web page , I need to know  the information i will provied for who, the lay out should be clear ,can other tell what the button i 
  provied about. information should be clear and under standable the navigator is clear,easy and understandable.
-#### java script:
+### java script:
 Java script is like instruction to achieve gaol so I need to know my goal and design first.then make steps if its hard one using flowchart then 
 code each step so computer can understand and there is object  is physical things in java script which is like content and every object has property
 with name and value .java script define how the object will do call that event.and how object interact is method .when compine all these together to creat
