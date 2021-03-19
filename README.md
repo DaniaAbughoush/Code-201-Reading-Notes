@@ -17,11 +17,11 @@ and this is my GitHub page:
 | README     | Homepage       |
 |  [CLASS-01.md](https://github.com/DaniaAbughoush/Code-201-Reading-Notes/blob/main/class-01.md) |     html and javascript introduction    |
 |   [class-02.md](https://github.com/DaniaAbughoush/Code-201-Reading-Notes/blob/main/class-02.md) |  html loopsand java script       |
-|   [class0-03.md](https://github.com/DaniaAbughoush/Code-201-Reading-Notes/blob/main/class.03.md) | list,styling,boards         |
-| [class04.md]()   |         |
-|   [class05.md]( https://github.com/DaniaAbughoush/Code-201-Reading-Notes/blob/main/class.05.md)|    textand color     |
-|    |         |
-|    |         |
+|   [class0-03.md](https://github.com/DaniaAbughoush/Code-201-Reading-Notes/blob/main/class-03.md) | list,styling,boards         |
+| [class04.md](https://github.com/DaniaAbughoush/Code-201-Reading-Notes/blob/main/class-04.md)   |   reading 4      |
+|   [class05.md]( https://github.com/DaniaAbughoush/Code-201-Reading-Notes/blob/main/class-05.md)|    textand color     |
+|   [class-06.md](https://github.com/DaniaAbughoush/Code-201-Reading-Notes/blob/main/class-05.md) |   css      |
+|  [claa-7.md](https://github.com/DaniaAbughoush/Code-201-Reading-Notes/blob/main/class-07.md)  |      objects and methods   |
 |    |         |
 |    |         |
 |    |         |
